@@ -1,1 +1,2 @@
 # Lesson-17-list
+   The code modifies the second item in the grocery list, replacing 'potatoes' with 'oill', and then prints the entire updated list, the last item ('milk'), the third item ('rice'), and a slice of the list containing the second item ('oill'). The second part of the code initializes a max variable with the first price and iterates over the price list to find and print the maximum value (15). The for loop compares each value with max, updating it if the current value is greater. The largest value in the list is stored in max and printed.
